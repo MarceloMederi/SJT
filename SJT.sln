@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SJT", "SJT\SJT.pyproj", "{8ABE0A28-0A9C-43E0-94E8-4A74605AFAA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ABE0A28-0A9C-43E0-94E8-4A74605AFAA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ABE0A28-0A9C-43E0-94E8-4A74605AFAA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9D8AAEA-C81E-42C5-856A-BF708CA545F1}
+	EndGlobalSection
+EndGlobal
